@@ -15,7 +15,7 @@
 role:        Regional Sysadmin
 domain:      Hybrid Identity · Endpoint Mgmt · Networking
 location:    NRW, Germany
-sites:       20+
+sites:       10+
 stack:       Entra ID · AD · Intune · Meraki · NetBox
 mindset:     Process over patchwork
 ```
